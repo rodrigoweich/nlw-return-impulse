@@ -1,0 +1,18 @@
+{
+  "colorTabs.config": [
+    {
+      "regex": "/"
+    },
+    {
+      "regex": ".*/web/.*"
+    },
+    {
+      "regex": ".*/mobile/.*"
+    }
+  ],
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#00002F",
+    "statusBar.background": "#00002F",
+    "statusBar.foreground": "#ffffff"
+  }
+}
